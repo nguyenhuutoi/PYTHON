@@ -1,26 +1,10 @@
-# variable 
-#y="john"
-#print(x)
-#print(y)
+ list1=["a","b","c"]
+ list2=[1,2,3]
 
-# data type 
-# gom co cac kieu chuoi sau :
-#text:str
-#number: int,float,complex,
-#Sequence type : list,tuple, range
-#mapping type: dict 
-#set type: set ,frozenset
-a = frozenset(("organge","banana","apple"))
-print(a)
-##
-##
-x = 3+5j
-y = 5j
-z = -5j
+ fruit=["apple","banana"]
+ fruits.append("orange")
+ # chen  phan tu orange vao  cuoi mang
 
-print(type(x))
-print(type(y))
-print(type(z))
-
+ lệnh trả về chuỗi không có khoảng trắng 
 
 

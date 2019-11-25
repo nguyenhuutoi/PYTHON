@@ -1,0 +1,11 @@
+
+def addressbook(firstname, lastname, age, address=''):
+    print(f'Name: {firstname} {lastname} \nAge: {age} \naddress: {address}')
+
+addressbook('jason', age=40, address='unknown', lastname='bourne')
+
+addressbook('jason', 'bourne', 40, 'unknown')
+
+
+#  khai bao ham va  xuất dia chi 
+
